@@ -1,5 +1,5 @@
 ---
-title: Nghi nhu lap trinh !
+title: Nghi nhu lap trinh
 category: "sayings"
 author: Ken Vo Nam Truong
 ---
