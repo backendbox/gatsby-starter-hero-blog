@@ -1,5 +1,5 @@
 ---
-title: Nghĩ như lập trình viên !
+title: Nghi nhu lap trinh !
 category: "sayings"
 author: Ken Vo Nam Truong
 ---
