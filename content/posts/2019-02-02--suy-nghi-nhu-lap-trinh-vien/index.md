@@ -1,5 +1,5 @@
 ---
-title: "Nghĩ như lập trình viên"
+title: I am Ken !
 category: "thoughts"
 cover: photo-1465070845512-2b2dbdc6df66.jpg
 author: Ken Vo Nam Truong
