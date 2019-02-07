@@ -67,7 +67,7 @@ font:
   # font options
   family:
     initial: 'Roboto, sans-serif'
-    target: &font-family-target 'Open Sans'
+    target: &font-family-target 'Roboto'
   weight:
     standard: 400
     bold: 600
